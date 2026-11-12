@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Horizon - Open World Car Driving",
+  "description": "An immersive 3D open-world car driving game featuring realistic physics, diverse vehicles, drift mechanics, stunt ramps, city and coastal highways, day/night cycles, and time trial missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
